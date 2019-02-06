@@ -1,6 +1,7 @@
 .success {
-    color: green;
-    background: yellow;
+    padding: 20px;
+    background: palegreen;
+    border: 1px solid red;;
 }
 .center {
     text-align: center;
